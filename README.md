@@ -12,4 +12,3 @@ Five Labs are:
  . creating private subnet and private machine in it
  . installing apache2 web service in 2 machines without connecting through ssh
  
-3. 
