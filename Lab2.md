@@ -26,6 +26,6 @@
 ![image](https://user-images.githubusercontent.com/126765452/230574888-e36c1fd1-e35f-4d7b-a273-f5092a54a595.png)
 
 
-7. Creating new instance in private subnet and install apache2 without ssh.
+7. Creating new instance in private subnet and install apache2 without ssh(using user data).
 ![image](https://user-images.githubusercontent.com/126765452/230574972-58b6c2d6-1af5-49e4-ad95-2c028868e1c0.png)
 ![image](https://user-images.githubusercontent.com/126765452/230574996-146b7264-6e7a-4e3a-96ce-5f16762b8ffa.png)
